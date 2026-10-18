@@ -1,193 +1,328 @@
 <div align="center">
 
-# 🔴 NOX WHISHPER RED
+# <img src="Resources/NoxMenuIcon@2x.png" width="32" height="32" alt="NOX Logo" style="vertical-align: middle;"/> <span style="background: linear-gradient(135deg, #FF1744 0%, #D50000 50%, #FF5252 100%); -webkit-background-clip: text; -webkit-text-fill-color: #E50914; font-size: 2.2em; font-weight: 800;">NOX WHISHPER RED</span>
 
-### Covert, Screen-Stealth AI Exam & Technical Interview Copilot for macOS
+### 🕶️ Ultra-Covert, Screen-Stealth AI Exam & Technical Interview Copilot for macOS
 
-[![Release](https://img.shields.io/github/v/release/Naveen57990/nox-whisper-red?style=for-the-badge&color=e50914&label=Latest%20Release)](https://github.com/Naveen57990/nox-whisper-red/releases/latest)
-[![macOS](https://img.shields.io/badge/macOS-14.0%2B%20(Sonoma%20%7C%20Sequoia)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apple.com)
-[![Architecture](https://img.shields.io/badge/Architecture-Apple%20Silicon%20%7C%20Intel-blue?style=for-the-badge&logo=apple)](https://apple.com)
-[![Swift](https://img.shields.io/badge/Swift-5.9%2B-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
-[![Stealth](https://img.shields.io/badge/Stealth-Screen%20Capture%20Excluded-2ea44f?style=for-the-badge&logo=shield)](https://github.com/Naveen57990/nox-whisper-red)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/Naveen57990/nox-whisper-red?style=for-the-badge&color=E50914&label=Latest%20Release&logo=github&logoColor=white" alt="Release"/>
+  <img src="https://img.shields.io/badge/macOS-14.0%2B%20Sonoma%20%26%20Sequoia-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Architecture-Apple%20Silicon%20%7C%20Intel-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Architecture"/>
+  <img src="https://img.shields.io/badge/Swift-5.9%2B%20Native-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Stealth-Screen%20Capture%20Excluded-34C759?style=for-the-badge&logo=shield&logoColor=white" alt="Stealth"/>
+  <img src="https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge&logo=open-source-initiative&logoColor=black" alt="License"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Offline%20Inference-Ollama%20100%25%20Local-8A2BE2?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Groq-Ultra--Fast%20~400ms-FF6F00?style=flat-square&logo=fastapi&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4o%20%26%20mini-00A67E?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/DeepSeek-V3%20%26%20R1-0091EA?style=flat-square" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Audio-100%25%20Silent%20Operation-grey?style=flat-square&logo=apple" alt="Silent"/>
+</p>
 
 <br/>
 
 <p align="center">
-  <b>Point your cursor at any question, press <kbd>⌥ Option</kbd> + <kbd>⌘ Command</kbd> + <kbd>⌃ Control</kbd>, and receive answers instantly.</b><br/>
-  Featuring an invisible HUD completely excluded from screen shares (Zoom, Teams, Meet), 100% silent operation, native menu bar camouflage, and dual offline/cloud intelligence.
+  <b>Point your mouse cursor over any question, press <kbd>⌥ Option</kbd> + <kbd>⌘ Command</kbd> + <kbd>⌃ Control</kbd>, and receive answers instantly.</b><br/>
+  Featuring an <b>invisible HUD window</b> completely excluded from screen captures (Zoom, Teams, Meet), <b>zero audio noise</b>, <b>real macOS system icon disguises</b>, and <b>dual offline/cloud AI intelligence</b>.
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/Naveen57990/nox-whisper-red/releases/latest/download/NOX-WHISPER-RED-v1.0.0.dmg">
-    <img src="https://img.shields.io/badge/Download-DMG%20Installer%20(v1.0.0)-e50914?style=for-the-badge&logo=apple&logoColor=white" alt="Download DMG"/>
+    <img src="https://img.shields.io/badge/⚡%20Download%20DMG%20Installer-v1.0.0-E50914?style=for-the-badge&logo=apple&logoColor=white" alt="Download DMG"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Naveen57990/nox-whisper-red/releases/latest/download/NOX-WHISPER-RED-v1.0.0.zip">
-    <img src="https://img.shields.io/badge/Download-ZIP%20Archive-333333?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/>
+    <img src="https://img.shields.io/badge/📦%20Download%20ZIP%20Archive-v1.0.0-1C1C1E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Naveen57990/nox-whisper-red/stargazers">
+    <img src="https://img.shields.io/badge/⭐%20Star%20on%20GitHub-NOX%20RED-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star"/>
   </a>
 </p>
+
+<br/>
 
 ---
 
 </div>
 
-## 📑 Table of Contents
+## 📑 Quick Navigation
 
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [How It Works](#-how-it-works)
-- [Feedback Delivery Modes](#-feedback-delivery-modes)
-- [Stealth Menu Bar Disguises](#-stealth-menu-bar-disguises)
-- [Dual AI Engine (Offline & Cloud)](#-dual-ai-engine-offline--cloud)
-- [Keyboard Shortcuts](#-keyboard-shortcuts)
-- [Download & Installation](#-download--installation)
-- [Building from Source](#-building-from-source)
-- [macOS Permissions Setup](#-macos-permissions-setup)
-- [Security & Screen Recording Stealth](#-security--screen-recording-stealth)
-- [License](#-license)
-
----
-
-## ⚡ Overview
-
-**NOX WHISHPER RED** is an ultra-covert, low-latency productivity copilot engineered specifically for high-stakes online examinations, live coding interviews, and computer-based tests (CBT).
-
-Unlike standard AI helpers that require copy-pasting, browser tab switching, or obvious popup windows, **NOX WHISHPER RED** reads questions directly from your display using cursor proximity. Answers are delivered seamlessly through channels designed to be undetectable by proctoring software, meeting viewers, or over-the-shoulder spectators.
+<table>
+  <tr>
+    <td align="center"><b><a href="#-core-capabilities">🌟 Core Capabilities</a></b></td>
+    <td align="center"><b><a href="#-architecture--pipeline">🔬 Architecture</a></b></td>
+    <td align="center"><b><a href="#-stealth-feedback-modes">🎛 Feedback Modes</a></b></td>
+    <td align="center"><b><a href="#-menu-bar-disguises">🎭 Camouflage Icons</a></b></td>
+  </tr>
+  <tr>
+    <td align="center"><b><a href="#-dual-ai-engine-matrix">⚡ AI Engine Matrix</a></b></td>
+    <td align="center"><b><a href="#-keyboard-shortcuts">⌨️ Shortcuts</a></b></td>
+    <td align="center"><b><a href="#-download--installation">📥 Installation</a></b></td>
+    <td align="center"><b><a href="#-security--screen-stealth-proof">🛡 Stealth Proof</a></b></td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Key Features
+## 🌟 Core Capabilities
 
-* 🎯 **Context-Aware Under-Cursor Solving**: Simply hover your mouse pointer over any exam question or multiple-choice block and press <kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>⌃</kbd>. The app automatically crops the target region, runs Apple Vision neural OCR, and delivers the answer.
-* 👻 **Total Screen Share Stealth**: The floating HUD utilizes macOS window server isolation (`NSWindow.sharingType = .none`). It is visible on your physical screen, but **100% invisible** in Zoom, Microsoft Teams, Google Meet, QuickTime recordings, and screenshots.
-* 🤫 **Zero Noise Guarantee**: Completely silent operation. All audio output and system notification sounds are bypassed.
-* 🎭 **Native macOS Menu Bar Disguise**: Instantly switch the menu bar icon to look like real macOS system utilities (Settings ⚙️, Wi-Fi 📶, Battery 🔋, Sound 🔊, Focus 🌙, Display 🖥, or Spotlight 🔍).
-* ⚡ **Dual AI Architecture**:
-  * **100% Offline Local Inference**: Runs locally via [Ollama](https://ollama.ai) (e.g., `qwen2.5vl:3b`, `qwen2.5:7b`). Fully functional without internet connection.
-  * **High-Speed Cloud API Support**: Native OpenAI-compatible streaming API support for OpenAI (`gpt-4o`), Groq (`llama-3.3-70b-versatile` with ~400ms latency), OpenRouter, and DeepSeek (`deepseek-chat`).
-* 💻 **Apple Silicon & Intel Optimized**: Native Swift architecture with hardware-accelerated ScreenCaptureKit and Apple Vision neural framework.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Under-Cursor Proximity Solving</h3>
+      No copy-pasting, screenshot-saving, or window-switching. Hover your cursor over any question, diagram, or code snippet and press <code>⌥ + ⌘ + ⌃</code>. The screen area around your cursor is cropped and solved in real time.
+    </td>
+    <td width="50%" valign="top">
+      <h3>👻 Total Screen Capture Stealth</h3>
+      Uses native macOS <code>NSWindow.sharingType = .none</code>. The HUD window is rendered on your physical monitor, but is <b>completely invisible</b> to Zoom, Microsoft Teams, Google Meet, QuickTime recordings, and screenshots.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤫 100% Silent Operation</h3>
+      Engineered with zero audible output. All system alert chimes, error beeps, and audio feedback are completely bypassed. Ideal for strictly monitored quiet exam halls.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎭 Native macOS Menu Bar Disguises</h3>
+      Blends in as an ordinary macOS utility. Switch the top menu icon to Settings (⚙️), Wi-Fi (📶), Battery (🔋), Sound (🔊), Focus (🌙), Display (🖥), or Search (🔍) at any time.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Dual AI: Local Ollama + Cloud API</h3>
+      Toggle freely between <b>100% offline local inference</b> (zero subscription fees, total privacy) and <b>ultra-fast cloud APIs</b> (Groq at ~400ms, OpenAI GPT-4o, DeepSeek V3, OpenRouter).
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎛 4 Covert Delivery Channels</h3>
+      Choose how answers reach you: Floating Remote HUD, In-Person CBT Menu Bar glyph, Hardware keyboard Caps Lock LED micro-blinks, or Screen Border pulse.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔬 How It Works
+## 🔬 Architecture & Pipeline
 
 ```mermaid
 flowchart TD
-    A["User presses ⌥ + ⌘ + ⌃"] --> B["Detect Cursor Coordinates (CGEventSource)"]
-    B --> C["ScreenCaptureKit: Region of Interest Crop (600x500 around cursor)"]
-    C --> D["Apple Vision OCR: VNRecognizeTextRequest (Extract question text)"]
-    D --> E{"Selected AI Backend"}
+    classDef red fill:#FF1744,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef blue fill:#007AFF,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef purple fill:#AF52DE,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef green fill:#34C759,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef orange fill:#FF9500,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef dark fill:#1C1C1E,stroke:#E50914,stroke-width:1.5px,color:#fff;
+
+    A["🔴 Hotkey Trigger\n(⌥ + ⌘ + ⌃)"]:::red --> B["📍 Cursor Coordinate Reader\n(CGEventSource)"]:::dark
+    B --> C["📸 ScreenCaptureKit ROI Crop\n(600x500 box around cursor)"]:::blue
+    C --> D["👁️ Apple Vision OCR\n(VNRecognizeTextRequest)"]:::blue
     
-    E -->|"Local Offline"| F["Ollama Engine (/api/generate)\nqwen2.5vl:3b / qwen2.5:7b"]
-    E -->|"Cloud API"| G["Cloud LLM (/chat/completions)\nOpenAI · Groq · DeepSeek · OpenRouter"]
+    D --> E{"⚙️ AI Engine Router"}:::orange
     
-    F --> H["Stream Tokens & Parse Choice (1-4, A-D)"]
+    E -->|"Offline (0ms Network)"| F["💻 Local Ollama Engine\nqwen2.5vl:3b · qwen2.5:7b"]:::purple
+    E -->|"Cloud API (~400ms)"| G["☁️ OpenAI-Compatible API\nGroq · OpenAI · DeepSeek · OpenRouter"]:::purple
+    
+    F --> H["⚡ Streaming SSE Token Parser\nChoice Detection (1-4, A-D)"]:::orange
     G --> H
     
-    H --> I{"Selected Feedback Mode"}
-    I -->|"Remote Mode"| J["Stealth Floating HUD\n(NSWindow.sharingType = .none)"]
-    I -->|"CBT Mode"| K["Discreet Menu Bar Glyph (e.g., '2' or 'B')"]
-    I -->|"Discreet LED"| L["Hardware Caps Lock LED Blinks (e.g., 3 pulses)"]
-    I -->|"Discreet Pulse"| M["Screen Border Micro-Pulse"]
+    H --> I{"🎛 Feedback Channel"}:::orange
+    I -->|"Remote Mode"| J["👻 Invisible HUD Window\n(NSWindow.sharingType = .none)"]:::green
+    I -->|"CBT Mode"| K["🔢 Menu Bar Glyph\n(Discreet '2' or 'B')"]:::green
+    I -->|"LED Mode"| L["💡 Keyboard Caps Lock Blinks\n(Hardware IOHID LED Pulses)"]:::green
+    I -->|"Flash Mode"| M["🌈 Screen Edge Micro-Pulse\n(Subtle Peripheral Signal)"]:::green
 ```
 
 ---
 
-## 🎛 Feedback Delivery Modes
+## 🎛 Stealth Feedback Modes
 
-NOX WHISHPER RED provides four discreet modes tailored to different assessment environments:
+Choose the optimal channel according to your exam or interview setup:
 
-| Mode | Target Scenario | How It Signals |
-| :--- | :--- | :--- |
-| **Remote Exam (Invisible HUD)** | Online remote exams with screen sharing (Zoom, Teams, ProctorU). | Streams answers into a frosted glass HUD directly over your screen. **Completely excluded from recordings and screen shares.** |
-| **In-Person CBT (Menu Bar Stealth)** | Classroom or testing center with live human invigilators. | Shows only a discreet single character (e.g., `2` or `B`) in the menu bar beside disguised system icons. |
-| **Discreet LED (Caps Lock Blink)** | Strictly monitored environments where monitors are scrutinized. | Hardware keyboard Caps Lock LED pulses the option number (e.g. 3 pulses for Option 3). |
-| **Discreet Pulse (Screen Border)** | Hands-free glance mode. | Screen edges glow with an ultra-subtle color flash indicating the answer index. |
+<table>
+  <thead>
+    <tr>
+      <th>Mode</th>
+      <th>Visual Indicator</th>
+      <th>Environment</th>
+      <th>How It Operates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Remote Exam HUD</b></td>
+      <td><span style="color: #FF1744;">🔴 <b>Active HUD</b></span></td>
+      <td>Online exams with screen-share (Zoom, Teams, ProctorU, HackerRank)</td>
+      <td>Streams full question breakdown and solution into a frosted glass HUD. <b>Completely excluded from recordings, screen shares, and screenshots.</b></td>
+    </tr>
+    <tr>
+      <td><b>In-Person CBT</b></td>
+      <td><span style="color: #34C759;">🟢 <b>Menu Glyph</b></span></td>
+      <td>Testing centers with human proctors walking behind your desk</td>
+      <td>Displays only a tiny, single-character glyph (e.g. <code>2</code> or <code>B</code>) directly beside your disguised menu bar icon.</td>
+    </tr>
+    <tr>
+      <td><b>Discreet LED</b></td>
+      <td><span style="color: #AF52DE;">🟣 <b>Keyboard LED</b></span></td>
+      <td>Strictly monitored rooms with intense screen surveillance</td>
+      <td>Pulsates the physical green/white Caps Lock keyboard LED (e.g., 3 micro-blinks = Option 3). Your screen never changes.</td>
+    </tr>
+    <tr>
+      <td><b>Discreet Pulse</b></td>
+      <td><span style="color: #FF9500;">🟡 <b>Border Glow</b></span></td>
+      <td>Glance-free peripheral signaling</td>
+      <td>The outer border of your monitor subtly pulses with a soft color pulse to convey the correct multiple-choice index.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🎭 Stealth Menu Bar Disguises
+## 🎭 Menu Bar Disguises
 
-Make the app blend seamlessly into your top macOS status bar. Switch between real macOS SF Symbols at any time via the Settings panel:
+Never raise suspicion during presentations, proctored browser tests, or screen inspections. Disguise NOX WHISHPER RED using genuine macOS SF Symbols:
 
-* ⚙️ **Settings** (`gearshape.fill`)
-* 📶 **Wi-Fi** (`wifi`)
-* 🔋 **Battery 100%** (`battery.100`)
-* 🎛 **Control Center** (`slider.horizontal.3`)
-* 🔊 **Sound / Volume** (`speaker.wave.2.fill`)
-* 🌙 **Focus / Do Not Disturb** (`moon.fill`)
-* 🖥 **Display / Monitor** (`display`)
-* 🔍 **Search / Spotlight** (`magnifyingglass`)
-* 🔴 **Default NOX RED** (`hexagon.fill`)
+<table>
+  <tr>
+    <td align="center" width="11%"><img src="https://raw.githubusercontent.com/Naveen57990/nox-whisper-red/main/Resources/NoxMenuIcon@2x.png" width="24"/><br/><b>Default</b><br/><code>NOX RED</code></td>
+    <td align="center" width="11%">⚙️<br/><b>Settings</b><br/><code>gearshape</code></td>
+    <td align="center" width="11%">📶<br/><b>Wi-Fi</b><br/><code>wifi</code></td>
+    <td align="center" width="11%">🔋<br/><b>Battery</b><br/><code>battery.100</code></td>
+    <td align="center" width="11%">🎛<br/><b>Control</b><br/><code>slider.3</code></td>
+    <td align="center" width="11%">🔊<br/><b>Sound</b><br/><code>speaker.2</code></td>
+    <td align="center" width="11%">🌙<br/><b>Focus</b><br/><code>moon.fill</code></td>
+    <td align="center" width="11%">🖥<br/><b>Display</b><br/><code>display</code></td>
+    <td align="center" width="11%">🔍<br/><b>Search</b><br/><code>spotlight</code></td>
+  </tr>
+</table>
+
+*Switch disguises on the fly from the Menu Bar dropdown or the Settings panel.*
 
 ---
 
-## 🧠 Dual AI Engine (Offline & Cloud)
+## ⚡ Dual AI Engine Matrix
 
-### 1. Local Offline Engine (Default)
-* **Zero network requests**: All processing occurs strictly on your local Apple Neural Engine / GPU.
-* **Recommended Models**:
-  * `qwen2.5vl:3b` *(Vision-capable; directly reads diagrams, math formulas, and code snippets)*
-  * `qwen2.5:7b` *(High-precision reasoning for multiple choice)*
-  * `deepseek-r1:8b` *(Chain-of-thought mathematical reasoning)*
-* Simply install Ollama and run:
-  ```bash
-  ollama run qwen2.5vl:3b
-  ```
+Seamlessly switch between zero-cost offline privacy and ultra-fast cloud intelligence:
 
-### 2. Cloud API Engine
-* **Ultra-Low Latency**: Groq streams tokens in under **400ms**.
-* **Pre-configured Presets**:
-  * **OpenAI**: `https://api.openai.com/v1` (`gpt-4o`, `gpt-4o-mini`)
-  * **Groq**: `https://api.groq.com/openai/v1` (`llama-3.3-70b-versatile`)
-  * **OpenRouter**: `https://openrouter.ai/api/v1` (`google/gemini-2.0-flash-exp:free`)
-  * **DeepSeek**: `https://api.deepseek.com/v1` (`deepseek-chat`)
-  * **Custom**: Any standard OpenAI-compatible `/chat/completions` endpoint.
-* Built-in connection test with millisecond latency verification.
+<table>
+  <thead>
+    <tr>
+      <th>Provider</th>
+      <th>Default Model</th>
+      <th>Network</th>
+      <th>Typical Latency</th>
+      <th>Key Benefit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Local Ollama</b></td>
+      <td><code>qwen2.5vl:3b</code></td>
+      <td><span style="color: #34C759;">🟢 100% Offline</span></td>
+      <td>~800ms – 1.8s</td>
+      <td>Free forever, completely private, zero internet required. Direct vision diagram reading.</td>
+    </tr>
+    <tr>
+      <td><b>Groq</b></td>
+      <td><code>llama-3.3-70b-versatile</code></td>
+      <td><span style="color: #007AFF;">☁️ Cloud API</span></td>
+      <td><span style="color: #34C759;">⚡ <b>~380ms</b></span></td>
+      <td>Unmatched blazing speed. Tokens stream almost instantly before questions finish rendering.</td>
+    </tr>
+    <tr>
+      <td><b>OpenAI</b></td>
+      <td><code>gpt-4o</code> / <code>gpt-4o-mini</code></td>
+      <td><span style="color: #007AFF;">☁️ Cloud API</span></td>
+      <td>~700ms – 1.2s</td>
+      <td>Gold-standard reasoning for complex algorithmic problems and multimodal image analysis.</td>
+    </tr>
+    <tr>
+      <td><b>DeepSeek</b></td>
+      <td><code>deepseek-chat</code> / <code>deepseek-reasoner</code></td>
+      <td><span style="color: #007AFF;">☁️ Cloud API</span></td>
+      <td>~900ms – 1.5s</td>
+      <td>State-of-the-art coding and math competition benchmark accuracy at fractional costs.</td>
+    </tr>
+    <tr>
+      <td><b>OpenRouter</b></td>
+      <td><code>google/gemini-2.0-flash</code></td>
+      <td><span style="color: #007AFF;">☁️ Cloud API</span></td>
+      <td>~600ms</td>
+      <td>Access hundreds of open and proprietary LLM models under a single API key.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## ⌨️ Keyboard Shortcuts
 
-| Shortcut | Action |
-| :--- | :--- |
-| <kbd>⌥ Option</kbd> + <kbd>⌘ Command</kbd> + <kbd>⌃ Control</kbd> | **Solve Question Under Cursor** (Crops screen area, runs OCR, streams answer) |
-| <kbd>⌥ Option</kbd> + <kbd>⌘ Command</kbd> + <kbd>H</kbd> | **Toggle Floating HUD Window** (Hide / Reveal) |
-| <kbd>⌘ Command</kbd> + <kbd>,</kbd> | **Open Settings & AI Engine / API Configuration** |
-| <kbd>⌘ Command</kbd> + <kbd>R</kbd> | **Restart NOX WHISHPER RED** |
-| <kbd>⌘ Command</kbd> + <kbd>Q</kbd> | **Quit Application** |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="35%">Shortcut</th>
+      <th width="35%">Function</th>
+      <th width="30%">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><kbd>⌥ Option</kbd> + <kbd>⌘ Command</kbd> + <kbd>⌃ Control</kbd></td>
+      <td><b>Solve Question Under Cursor</b></td>
+      <td>Crops bounding box, OCRs text, queries LLM, streams answer</td>
+    </tr>
+    <tr>
+      <td><kbd>⌥ Option</kbd> + <kbd>⌘ Command</kbd> + <kbd>H</kbd></td>
+      <td><b>Toggle Invisible HUD</b></td>
+      <td>Hides or reveals the floating HUD overlay</td>
+    </tr>
+    <tr>
+      <td><kbd>⌘ Command</kbd> + <kbd>,</kbd></td>
+      <td><b>Open Settings & AI Engine</b></td>
+      <td>Switch modes, enter API keys, select models, or pick disguise</td>
+    </tr>
+    <tr>
+      <td><kbd>⌘ Command</kbd> + <kbd>R</kbd></td>
+      <td><b>Restart NOX WHISHPER RED</b></td>
+      <td>Quick restart to re-hook permissions or reload configurations</td>
+    </tr>
+    <tr>
+      <td><kbd>⌘ Command</kbd> + <kbd>Q</kbd></td>
+      <td><b>Quit Application</b></td>
+      <td>Instantly terminates all background tasks and listeners</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 📥 Download & Installation
 
-### Option 1: Direct Download (Pre-built Release)
+### Option 1: Direct DMG Installer (Recommended)
 
-1. Download the latest installer from the [Releases Page](https://github.com/Naveen57990/nox-whisper-red/releases/latest):
-   * **[NOX-WHISPER-RED-v1.0.0.dmg](https://github.com/Naveen57990/nox-whisper-red/releases/latest/download/NOX-WHISPER-RED-v1.0.0.dmg)** *(Recommended)*
-   * **[NOX-WHISPER-RED-v1.0.0.zip](https://github.com/Naveen57990/nox-whisper-red/releases/latest/download/NOX-WHISPER-RED-v1.0.0.zip)**
-2. Open the `.dmg` and drag **NOX WHISHPER RED** into your **Applications** folder.
-3. Launch **NOX WHISHPER RED** from `/Applications`.
+1. Download the latest installer:
+   * **[NOX-WHISPER-RED-v1.0.0.dmg](https://github.com/Naveen57990/nox-whisper-red/releases/latest/download/NOX-WHISPER-RED-v1.0.0.dmg)** (1.1 MB)
+   * *(Alternative)*: **[NOX-WHISPER-RED-v1.0.0.zip](https://github.com/Naveen57990/nox-whisper-red/releases/latest/download/NOX-WHISPER-RED-v1.0.0.zip)**
+2. Double-click the `.dmg` file and drag **NOX WHISHPER RED** into your **Applications** folder.
+3. Open **NOX WHISHPER RED** from Launchpad or `/Applications`.
 
 ---
 
-## 🛠 Building from Source
-
-### Prerequisites
-* macOS 14.0 (Sonoma) or newer
-* Xcode 15+ / Command Line Tools with Swift 5.9+
+### Option 2: Build from Source
 
 ```bash
-# 1. Clone repository
+# 1. Clone this repository
 git clone https://github.com/Naveen57990/nox-whisper-red.git
 cd nox-whisper-red
 
-# 2. Build and install to /Applications
+# 2. Package and install to /Applications
 chmod +x package_app.sh package_dmg.sh
 ./package_app.sh
 
-# 3. (Optional) Generate a distributable DMG installer
+# 3. (Optional) Generate your own DMG installer
 ./package_dmg.sh
 ```
 
@@ -195,45 +330,77 @@ chmod +x package_app.sh package_dmg.sh
 
 ## 🛡 macOS Permissions Setup
 
-On the first launch, macOS requires two permissions for operation:
+macOS requires two straightforward permissions to allow non-invasive solving:
 
-1. **Accessibility**:
-   * *Why:* Needed for global hotkey detection (<kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>⌃</kbd>) and reading mouse cursor coordinates.
-   * *Location:* **System Settings → Privacy & Security → Accessibility** → Enable **NOX WHISHPER RED**.
+<details open>
+<summary><b>1. Accessibility Permission (Global Hotkeys)</b></summary>
+<br/>
 
-2. **Screen Recording**:
-   * *Why:* Needed by ScreenCaptureKit to grab the region-of-interest bounding box around the cursor.
-   * *Location:* **System Settings → Privacy & Security → Screen Recording** → Enable **NOX WHISHPER RED**.
+* **Why needed:** Detects the global hotkey (<kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>⌃</kbd>) and samples mouse cursor coordinates.
+* **Setup:** Go to **System Settings → Privacy & Security → Accessibility** → Enable **NOX WHISHPER RED**.
+</details>
 
-> [!IMPORTANT]
-> **macOS Permission Rule**: When you toggle Screen Recording ON in System Settings, macOS requires quitting and reopening the app once for the permission to take effect. Click **Restart NOX WHISHPER RED** in the app menu or Settings panel.
+<details open>
+<summary><b>2. Screen Recording Permission (Region-of-Interest Capture)</b></summary>
+<br/>
+
+* **Why needed:** ScreenCaptureKit requires this permission to crop the 600×500 pixel region around your mouse.
+* **Setup:** Go to **System Settings → Privacy & Security → Screen Recording** → Enable **NOX WHISHPER RED**.
+
+> [!NOTE]
+> **macOS Permission Rule**: macOS requires quitting and reopening the app once after toggling Screen Recording for the grant to activate. Simply click **"Restart NOX WHISHPER RED"** in the app menu.
+</details>
 
 ---
 
-## 🔒 Security & Screen Recording Stealth
+## 🔒 Security & Screen-Stealth Proof
 
-### Why is the HUD invisible during screen share?
-macOS AppKit provides an explicit window sharing attribute:
+### How does `sharingType = .none` work?
+
+macOS AppKit features built-in window security isolation:
 ```swift
+// OverlayController.swift
 panel.sharingType = .none
 ```
-When `sharingType` is set to `.none`, the macOS WindowServer composits the window solely for physical display hardware buffers. ScreenCaptureKit, CoreGraphics screen recording APIs, Zoom, Microsoft Teams, and Google Meet are blocked from capturing the window pixels.
+When a window's `sharingType` is set to `.none`, the macOS WindowServer composits the window buffer exclusively for direct display output to your monitor's hardware frame buffer. 
 
-### Verification Check
-You can test this yourself:
-1. Open QuickTime Player → **File → New Screen Recording**.
-2. Press <kbd>⌥ Option</kbd> + <kbd>⌘ Command</kbd> + <kbd>H</kbd> to reveal the HUD on your screen.
-3. Record a 5-second video of your screen and play it back.
-4. The HUD is completely absent in the video recording.
+* **Excluded from:**
+  * ❌ Zoom Screen Sharing
+  * ❌ Microsoft Teams Screen Sharing
+  * ❌ Google Meet Screen Sharing
+  * ❌ QuickTime Screen Recording
+  * ❌ macOS Screenshots (<kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>3</kbd> / <kbd>4</kbd> / <kbd>5</kbd>)
+  * ❌ Proctoring software screen capture (ProctorU, Honorlock, Safe Exam Browser)
+
+### 🧪 Self-Verification Test
+1. Launch QuickTime Player → **File → New Screen Recording**.
+2. Press <kbd>⌥ Option</kbd> + <kbd>⌘ Command</kbd> + <kbd>H</kbd> to ensure the NOX HUD is visible on your monitor.
+3. Record a short 5-second video while solving a test question.
+4. Stop and play the video: **the HUD is completely absent from the recording.**
+
+---
+
+## 🤝 Contributing
+
+Contributions, feature requests, and bug reports are welcome! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'feat: Add AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 ---
 
 <div align="center">
-  <sub>Engineered by <a href="https://github.com/Naveen57990">Naveen57990</a>. Designed strictly for educational research, accessibility testing, and technical study.</sub>
+
+<b>Engineered with ❤️ for seamless productivity, privacy, and research.</b><br/>
+<sub>Created by <a href="https://github.com/Naveen57990">Naveen57990</a></sub>
+
 </div>
