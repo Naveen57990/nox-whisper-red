@@ -1,0 +1,51 @@
+name: Build & Release
+
+on:
+  push:
+    branches: [ main ]
+    tags: [ 'v*' ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build macOS Application & DMG
+    runs-on: macos-14
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Swift
+        uses: swift-actions/setup-swift@v2
+        with:
+          swift-version: "5.9"
+
+      - name: Build Application Bundle
+        run: |
+          chmod +x package_app.sh package_dmg.sh
+          ./package_dmg.sh
+
+      - name: Create ZIP archive
+        run: |
+          zip -r "NOX-WHISPER-RED-v1.0.0.zip" "NOX WHISHPER RED.app"
+
+      - name: Upload Build Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: NOX-WHISPER-RED-macOS
+          path: |
+            NOX-WHISPER-RED-v1.0.0.dmg
+            NOX-WHISPER-RED-v1.0.0.zip
+
+      - name: Create GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            NOX-WHISPER-RED-v1.0.0.dmg
+            NOX-WHISPER-RED-v1.0.0.zip
+          draft: false
+          prerelease: false
+          generate_release_notes: true

@@ -1,0 +1,21 @@
+# Swift Package Manager & Xcode
+.build/
+.swiftpm/
+Packages/
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+
+# macOS System Files
+.DS_Store
+*.swp
+*~
+.Spotlight-V100
+.Trashes
+
+# Application Bundles & Disk Images (built locally / distributed via GitHub Releases)
+*.app/
+*.dmg
+*.zip
+dmg_staging/
+dmg_temp/
